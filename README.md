@@ -1,11 +1,5 @@
 Replicating the exercises found  in https://github.com/DecodeMTL/vanilla-js-projects
 
-```
-function dev(){
- return true;
-}
-
-```
 
 Playing around with VanillaJS and learning about:
 
