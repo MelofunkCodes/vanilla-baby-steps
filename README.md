@@ -8,6 +8,7 @@ function dev(){
 ```
 
 Playing around with VanillaJS and learning about:
+
 1. Creating and manipulating elements *(querySelector)*
 2. Handling events *(addEventListener)*
     - Stopping to listen to an event *(removeEventListener)*
